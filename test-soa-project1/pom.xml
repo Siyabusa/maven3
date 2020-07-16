@@ -41,7 +41,7 @@
         <composite.name>${project.artifactId}</composite.name>
         <composite.revision>${project.version}</composite.revision>
         <composite.partition>default</composite.partition>
-        <serverUrl>${oracleServerUrl}</serverUrl>
+        <serverUrl>${oracleServ}</serverUrl>
         <user>${oracleUsername}</user>
         <password>${oraclePassword}</password>
         <overwrite>true</overwrite>
